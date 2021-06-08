@@ -2,8 +2,8 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="30ae894f-ade0-46ad-b421-4a239576d56d" name="shiqisun@192.168.3.196:22" url="http:///">
-        <fileTransfer host="192.168.3.196" port="22" accessType="SFTP">
-          <option name="port" value="22" />
+        <fileTransfer host="192.168.3.196" port="8088" accessType="SFTP">
+          <option name="port" value="8088" />
         </fileTransfer>
       </webServer>
     </option>
