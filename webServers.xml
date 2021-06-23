@@ -6,6 +6,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="4b756e52-b052-4643-b2c1-7b58aa0351be" name="shiqisun@1.117.157.104:6001" url="http:///">
+        <fileTransfer host="1.117.157.104" port="6001" accessType="SFTP">
+          <option name="port" value="6001" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
