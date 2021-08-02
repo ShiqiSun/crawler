@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="21">
+        <list size="22">
           <item index="0" class="java.lang.String" itemvalue="numba" />
           <item index="1" class="java.lang.String" itemvalue="opencv-contrib-python" />
           <item index="2" class="java.lang.String" itemvalue="motmetrics" />
@@ -25,6 +25,7 @@
           <item index="18" class="java.lang.String" itemvalue="pyquaternion" />
           <item index="19" class="java.lang.String" itemvalue="terminaltables" />
           <item index="20" class="java.lang.String" itemvalue="Pillow" />
+          <item index="21" class="java.lang.String" itemvalue="jupyter" />
         </list>
       </value>
     </option>

@@ -11,7 +11,7 @@
           <option name="port" value="6001" />
         </fileTransfer>
       </webServer>
-      <webServer id="cd7c5fee-d7e0-4aca-871c-5b7b0f1c48a4" name="shiqisun@192.168.3.196:22" url="http:///">
+      <webServer id="cd7c5fee-d7e0-4aca-871c-5b7b0f1c48a4" name="shiqisun@192.168.3.196:22 (1)" url="http:///">
         <fileTransfer host="192.168.3.196" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
